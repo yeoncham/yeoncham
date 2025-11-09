@@ -36,7 +36,6 @@
 ## Contact
 
 - Email: [ycriverkim@gmail.com](mailto:ycriverkim@gmail.com)
-- Open to research collaboration and graduate study opportunities!
 
 ---
 
