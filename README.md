@@ -1,28 +1,44 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=231515&height=120&text=Jongmin's%20GitHub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-          <br/></div>
-    </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=jmin2649> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=jmin2649"> </a>
-         <a href=mailto:ycriverkim@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:ycriverkim@gmail.com"> </a>
-          </div>  <br> 
-    <div style="text-align: left;">  </div> 
-    </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoncham&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+# 👋 Hi, I'm Jongmin Kim
+
+> *An aspiring researcher passionate about uncovering insights from complex data and building trustworthy AI through explainability*
+
+## 🎓 About Me
+
+- 🏫 **Junior at Soongsil University** (3rd Year, 2nd Semester)
+- 📊 **Overall GPA: 4.35 / 4.5** (97.5 credits)
+- 🎯 **Major GPA: 4.41 / 4.5** (60 credits)
+- 🔬 Deeply interested in **Deep Learning, XAI, and Data Science**
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Data Science & ML
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+## 🔍 Research Interests
+
+- 🧠 **Deep Learning**: Neural architecture design and optimization
+- 🔎 **Explainable AI (XAI)**: Interpreting and visualizing model decision-making processes
+- 📊 **Data Science**: Large-scale data analysis and insight extraction
+- 🤖 **AI Applications**: Applying AI to solve real-world problems
+
+## 📫 Contact
+
+- 📧 Email: [ycriverkim@gmail.com](mailto:ycriverkim@gmail.com)
+- 💬 Open to research collaboration and graduate study opportunities!
+
+---
+
+<div align="center">
+  <i>🌱 Continuously learning and growing as a researcher</i>
+</div>
