@@ -1,15 +1,15 @@
-# 👋 Hi, I'm Jongmin Kim
+# Hi, I'm Jongmin Kim 👋
 
 > *An aspiring researcher passionate about uncovering insights from complex data and building trustworthy AI through explainability*
 
-## 🎓 About Me
+## About Me
 
-- 🏫 **Junior at Soongsil University** (3rd Year, 2nd Semester)
-- 📊 **Overall GPA: 4.35 / 4.5** (97.5 credits)
-- 🎯 **Major GPA: 4.41 / 4.5** (60 credits)
-- 🔬 Deeply interested in **Deep Learning, XAI, and Data Science**
+- **Junior at Soongsil University** (3rd Year, 2nd Semester)
+- **Overall GPA: 4.35 / 4.5** (97.5 credits)
+- **Major GPA: 4.41 / 4.5** (60 credits)
+- Deeply interested in **Deep Learning, XAI, and Data Science**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
@@ -25,17 +25,17 @@
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-## 🔍 Research Interests
+## Research Interests
 
-- 🧠 **Deep Learning**: Neural architecture design and optimization
-- 🔎 **Explainable AI (XAI)**: Interpreting and visualizing model decision-making processes
-- 📊 **Data Science**: Large-scale data analysis and insight extraction
-- 🤖 **AI Applications**: Applying AI to solve real-world problems
+- **Deep Learning**: Neural architecture design and optimization
+- **Explainable AI (XAI)**: Interpreting and visualizing model decision-making processes
+- **Data Science**: Large-scale data analysis and insight extraction
+- **AI Applications**: Applying AI to solve real-world problems
 
-## 📫 Contact
+## Contact
 
-- 📧 Email: [ycriverkim@gmail.com](mailto:ycriverkim@gmail.com)
-- 💬 Open to research collaboration and graduate study opportunities!
+- Email: [ycriverkim@gmail.com](mailto:ycriverkim@gmail.com)
+- Open to research collaboration and graduate study opportunities!
 
 ---
 
