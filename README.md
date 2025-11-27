@@ -7,7 +7,7 @@
 - **Junior at Soongsil University** (3rd Year, 2nd Semester)
 - **Overall GPA: 4.35 / 4.5** (97.5 credits)
 - **Major GPA: 4.41 / 4.5** (60 credits)
-- Deeply interested in **Anomaly Detection, Deep Learning, XAI, and Data Science**
+- Deeply interested in **Anomaly Detection, Deep Learning, and Data Science**
 
 ## Tech Stack
 
