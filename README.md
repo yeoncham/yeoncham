@@ -30,7 +30,6 @@
 
 - **Anomaly Detection**: detecting outliers and unusual patterns in data 
 - **Deep Learning**: Neural architecture design and optimization
-- **Explainable AI (XAI)**: Interpreting and visualizing model decision-making processes
 - **Data Science**: Large-scale data analysis and insight extraction
 - **AI Applications**: Applying AI to solve real-world problems
 
