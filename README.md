@@ -1,13 +1,12 @@
 # Hi, I'm Jongmin Kim 👋
 
-> *An aspiring researcher passionate about uncovering insights from complex data and building trustworthy AI through explainability*
 
 ## About Me
 
-- **Junior at Soongsil University** (4th Year, 1st Semester)
+- **Senior at Soongsil University** (4th Year, 1st Semester)
 - **Overall GPA: 4.35 / 4.5** (118 credits)
 - **Major GPA: 4.39 / 4.5** (72 credits)
-- Deeply interested in **Anomaly Detection, Deep Learning, and Data Science**
+- Deeply interested in Computer Vision
 
 ## Tech Stack
 
@@ -28,11 +27,10 @@
 
 ## Research Interests
 
-- **Anomaly Detection**: detecting outliers and unusual patterns in data 
-- **Deep Learning**: Neural architecture design and optimization
-- **Data Science**: Large-scale data analysis and insight extraction
-- **AI Applications**: Applying AI to solve real-world problems
-
+- Image Restoration, Inverse Problems, and Low-Level Vision 
+- Diffusion-based Generative Models
+- Optimization-driven Deep learning
+  
 ## Contact
 
 - Email: [ycriverkim@gmail.com](mailto:ycriverkim@gmail.com)
