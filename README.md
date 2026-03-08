@@ -27,7 +27,7 @@
 
 ## Research Interests
 
-- **Image Restoration, Inverse Problems, and Low-Level Vision **
+- **Image Restoration, Inverse Problems, and Low-Level Vision**
 - **Diffusion-based Generative Models**
 - **Optimization-driven Deep Learning**
   
