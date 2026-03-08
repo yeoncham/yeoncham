@@ -29,7 +29,7 @@
 
 - Image Restoration, Inverse Problems, and Low-Level Vision 
 - Diffusion-based Generative Models
-- Optimization-driven Deep learning
+- Optimization-driven Deep Learning
   
 ## Contact
 
