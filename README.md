@@ -27,10 +27,9 @@
 
 ## Research Interests
 
-- **Image Restoration, Inverse Problems, and Low-Level Vision**
-- **Diffusion-based Generative Models**
-- **Optimization-driven Deep Learning**
-  
+- **3D Reconstruction**
+- **Reinforcement Learning**
+- 
 ## Contact
 
 - Email: [ycriverkim@gmail.com](mailto:ycriverkim@gmail.com)
