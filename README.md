@@ -28,7 +28,7 @@
 ## Research Interests
 
 - **3D Reconstruction**
-- **Reinforcement Learning**
+- **Multimodality**
 - 
 ## Contact
 
