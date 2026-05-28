@@ -27,8 +27,8 @@
 
 ## Research Interests
 
-- **3D Reconstruction**
-- **Multimodality**
+- **Vision-Language Models**
+- **Natural Language Processing**
   
 ## Contact
 
