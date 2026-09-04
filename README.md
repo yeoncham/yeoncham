@@ -4,8 +4,8 @@
 ## About Me
 
 - **Senior at Soongsil University** (4th Year, 1st Semester)
-- **Overall GPA: 4.35 / 4.5** (118 credits)
-- **Major GPA: 4.39 / 4.5** (72 credits)
+- **Overall GPA: 4.36 / 4.5** (133 credits)
+- **Major GPA: 4.39 / 4.5** (81 credits)
 - **Deeply interested in Computer Vision**
 
 ## Tech Stack
@@ -27,8 +27,7 @@
 
 ## Research Interests
 
-- **Vision-Language Models**
-- **Natural Language Processing**
+- **Image Restoration**
   
 ## Contact
 
