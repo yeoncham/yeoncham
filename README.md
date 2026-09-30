@@ -28,7 +28,8 @@
 ## Research Interests
 
 - **Image Restoration**
-- **3D Reconstruction**  
+- **3D Reconstruction**
+- **Sensor Fusion**
 ## Contact
 
 - Email: [ycriverkim@gmail.com](mailto:ycriverkim@gmail.com)
