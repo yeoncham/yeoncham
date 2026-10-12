@@ -28,8 +28,7 @@
 ## Research Interests
 
 - **Image Restoration**
-- **3D Reconstruction**
-- **Sensor Fusion**
+- **Vision Language Model**
 ## Contact
 
 - Email: [ycriverkim@gmail.com](mailto:ycriverkim@gmail.com)
